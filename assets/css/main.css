@@ -4077,11 +4077,9 @@
 		}
 
 /* Carousel */
-
-.carousel-inner > .item > img {
+	.carousel-inner > .item > img {
     margin: 0 auto;
-}
-
+	}
 
 /* Footer */
 
